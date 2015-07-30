@@ -7,3 +7,8 @@
 meteor-platform
 autopublish
 insecure
+anti:fake
+dburles:factory
+accounts-base
+accounts-password
+accounts-ui
